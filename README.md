@@ -1,0 +1,1 @@
+A Swing application that reduces the color depth of a BMP image from a specified file. Users can select an input BMP image file, specify the desired color depth reduction, and save the processed image to a new file. The application provides a user-friendly interface built using Java Swing components, allowing users to interact with the program easily.
